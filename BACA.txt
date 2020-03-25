@@ -1,0 +1,2 @@
+create db = surat2
+login/pass = admin/admin
